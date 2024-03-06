@@ -33,11 +33,15 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <br>
+  <br>
+  <h2>📊 OOSEDUS's Stats 📊</h2>
 </div>
-</hr>
+
+![Oosedus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oosedus&show_icons=true&theme=transparent) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seayeon0729)](https://solved.ac/seayeon0729/)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-
-
 <!--![Oosedus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oosedus&count_private=true)-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
