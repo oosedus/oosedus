@@ -55,11 +55,11 @@
 
 <h2>🖥️ I developed...</h2>
 
-- 냉장고 속 식재료의 유통기한을 편리하게 관리해주는 앱, [Fridge-Guardian](https://www.notion.so/Fridge-Guardian-ffb8362c0a55461eba733fca91f595c6)
+- 냉장고 속 식재료의 유통기한을 편리하게 관리해주는 앱, [Fridge-Guardian](https://bony-nose-601.notion.site/Fridge-Guardian-ffb8362c0a55461eba733fca91f595c6?pvs=4)
 
 - 서울의 식당들의 리뷰를 비교 분석해주는 웹, [Seoul Res - 설레스](https://github.com/oosedus/DB_WEB_project)
   
-- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐] ()
+- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐]()
 
 <h2>✍️ The project I planned...</h2>
 
