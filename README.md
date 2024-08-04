@@ -65,9 +65,9 @@
 
 - 원하는 음원의 LP를 크라우드 펀딩으로 공동 구매할 수 있는 B2B 앱, [LP판다](https://bony-nose-601.notion.site/LP-2b461e4d43d4492ab001751f348a9f97)
   
-- 희귀 식물을 사고 팔고, 조각 투자까지하는 웹, [그린에셋]()
+- 희귀 식물을 사고 팔고, 조각 투자까지하는 웹, [그린에셋](http://bony-nose-601.notion.site)
   
-- 생성형 AI gpt와의 대화를 기반으로 숏폼을 제작하는 웹, [숏튼]()
+- 생성형 AI gpt와의 대화를 기반으로 숏폼을 제작하는 웹, [숏튼](https://bony-nose-601.notion.site/604ee08fc864491daa0cd141d9df5379?pvs=4)
 
 <h2>🏆 Awards</h2>
 
