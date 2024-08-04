@@ -63,7 +63,7 @@
 
 <h2>✍️ The project I planned...</h2>
 
-- 원하는 음원의 LP를 크라우드 펀딩으로 공동 구매할 수 있는 B2B 앱, [LP판다](https://bony-nose-601.notion.site/LP-2b461e4d43d4492ab001751f348a9f97)
+- 원하는 음원의 LP를 크라우드 펀딩으로 공동 구매할 수 있는 B2B 앱, [LP판다](https://bony-nose-601.notion.site/LP-2b461e4d43d4492ab001751f348a9f97?pvs=4)
   
 - 희귀 식물을 사고 팔고, 조각 투자까지하는 웹, [그린에셋](http://bony-nose-601.notion.site)
   
