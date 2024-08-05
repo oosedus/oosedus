@@ -59,7 +59,7 @@
 
 - 서울의 식당들의 리뷰를 비교 분석해주는 웹, [Seoul Res - 설레스](https://github.com/oosedus/DB_WEB_project)
   
-- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐]()
+- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐](https://github.com/oosedus/mzconnect-back-end)
 
 <h2>✍️ The project I planned...</h2>
 
@@ -84,7 +84,7 @@
 <h2>🪪 Certificate</h2>
 
 ```
-2024.06 SQL DEVELOPER 자격증
+2024.06 SQLD 자격증
 2024.07 정보처리기사
 ```
 
