@@ -94,6 +94,9 @@
 E-mail : seayeon0729@naver.com
 Instagram : @oose_dus
 ```
+<h2>📝 Velog Link</h2>
+
+[oosedus's velog](https://velog.io/@oosedus/posts)
 
 
 <!--![](./profile-3d-contrib/profile-gitblock.svg)-->
