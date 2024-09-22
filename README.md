@@ -47,6 +47,7 @@
 
 | 기간 | 내용 |
 |:--:|:--:|
+| 2024.08 ~ 2024.09 | 🎀 큐시즘 X 렛츠커리어 서비스 IT 산학협력 프로젝트 백엔드 직무 체험형 인턴 🎀 |
 | 2023.09 ~ 2023.12 | 🏫 코드클럽한국위원회 주관 SW교육기부단 봉사단 활동, 초등학교 1학년 대상 코딩 교육 진행자 🏫 |
 | 2023.06 ~ 2023.09 | 🌟 서울과학기술대학교 정보보안연구실 ISLAB 하계 인턴 연구원 🌟 |
 | 2023.04 ~ 2023.12 | 👩 한국여성과학기술인육성재단 WISET 연구 심화 과정 연구원 🎓 |
@@ -56,11 +57,13 @@
 
 <h2>🖥️ I developed...</h2>
 
+- 취업생들의 일정 관리 대시보드, [렛츠커리어 취업 일정 관리 대시보드](https://github.com/oosedus/LetsCareerA-BE)
+
+- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐](https://github.com/oosedus/mzconnect-back-end)
+
 - 냉장고 속 식재료의 유통기한을 편리하게 관리해주는 앱, [Fridge-Guardian](https://bony-nose-601.notion.site/Fridge-Guardian-ffb8362c0a55461eba733fca91f595c6?pvs=4)
 
 - 서울의 식당들의 리뷰를 비교 분석해주는 웹, [Seoul Res - 설레스](https://github.com/oosedus/DB_WEB_project)
-  
-- 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐](https://github.com/oosedus/mzconnect-back-end)
 
 <h2>✍️ The project I planned...</h2>
 
@@ -86,7 +89,7 @@
 
 ```
 2024.06 SQLD 자격증
-2024.07 정보처리기사
+2024.09 정보처리기사
 ```
 
 <h2>🔍 Contact To Me</h2>
@@ -95,10 +98,6 @@
 E-mail : seayeon0729@naver.com
 Instagram : @oose_dus
 ```
-<h2>📝 Velog Link</h2>
-
-[oosedus's velog](https://velog.io/@oosedus/posts)
-
 
 <!--![](./profile-3d-contrib/profile-gitblock.svg)-->
 
