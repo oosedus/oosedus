@@ -2,6 +2,10 @@
 
 ## 서비스 기획자 및 주니어 백엔드 개발자, oosedus, 오세연의 GitHub 입니다🙋‍♀️
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/oosedus"/>
+</a>
+
 <div align=left><h2>🎓Education🎓</h2></div>
 
 ```
