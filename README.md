@@ -42,13 +42,14 @@
 
 | 기간 | 내용 |
 |:--:|:--:|
-| 2024.08 ~ | 💙 한국대학생IT경영학회 큐시즘, 백엔드파트 💙 |
-| 2024.03 ~ | 🦁 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드파트 개발자 🦁 |
+| 2024.10 ~ | 📝 AI 경험 기록부터 역량 분석까지, MOAMOA 백엔드 개발자 📝 |
 
 <h2>🙌 I did...</h2>
 
 | 기간 | 내용 |
 |:--:|:--:|
+| 2024.03 ~ 2024.12| 🦁 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드파트 개발자 🦁 |
+| 2024.08 ~ 2024.12 | 💙 한국대학생IT경영학회 큐시즘, 백엔드파트 💙 |
 | 2024.06 ~ 2024.11 | 🦋 벌레를 잡아줘, 잡버그 기획자 & 백엔드 개발자 🦋 |
 | 2024.03 ~ 2024.10 | 🔥 한이음 ICT 멘토링 프로젝트 AI & 백엔드 개발자 🚀 |
 | 2024.08 ~ 2024.09 | 🎀 큐시즘 X 렛츠커리어 서비스 IT 산학협력 프로젝트 백엔드 직무 체험형 인턴 🎀 |
@@ -61,13 +62,13 @@
 
 <h2>🖥️ I developed...</h2>
 
+- 위치 기반 벌레 퇴치 요청 웹, [잡버그](https://github.com/oosedus/JOBBUG-BE)
+
 - 취업생들의 일정 관리 대시보드, [렛츠커리어 취업 일정 관리 대시보드](https://github.com/oosedus/LetsCareerA-BE)
 
 - 시니어들에게 MZ 문화를 알려주는 웹, [요즘 애들 뭐햐](https://github.com/oosedus/mzconnect-back-end)
 
 - 냉장고 속 식재료의 유통기한을 편리하게 관리해주는 앱, [Fridge-Guardian](https://bony-nose-601.notion.site/Fridge-Guardian-ffb8362c0a55461eba733fca91f595c6?pvs=4)
-
-- 서울의 식당들의 리뷰를 비교 분석해주는 웹, [Seoul Res - 설레스](https://github.com/oosedus/DB_WEB_project)
 
 <h2>✍️ The project I planned...</h2>
 
@@ -76,6 +77,8 @@
 - 희귀 식물을 사고 팔고, 조각 투자까지하는 웹, [그린에셋](http://bony-nose-601.notion.site)
   
 - 생성형 AI gpt와의 대화를 기반으로 숏폼을 제작하는 웹, [숏튼](https://bony-nose-601.notion.site/604ee08fc864491daa0cd141d9df5379?pvs=4)
+
+- 배달용기 세척 및 분리 수거 장려 배달의 민족 내 서비스, [에코클럽](https://puzzling-guan-60d.notion.site/1328b05fa9198028bd2ed457e2bf83c5)
 
 <h2>🏆 Awards</h2>
 
