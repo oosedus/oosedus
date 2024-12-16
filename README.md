@@ -62,6 +62,8 @@
 
 <h2>🖥️ I developed...</h2>
 
+- 외출준비를 위한 날씨 정보를 직관적으로 알려주는 웹, [외출준비 - GOREDAY](https://github.com/oosedus/GOREADY_BE)
+
 - 위치 기반 벌레 퇴치 요청 웹, [잡버그](https://github.com/oosedus/JOBBUG-BE)
 
 - 취업생들의 일정 관리 대시보드, [렛츠커리어 취업 일정 관리 대시보드](https://github.com/oosedus/LetsCareerA-BE)
