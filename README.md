@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=😃Welcome%20oosedus%20github😃&fontSize=50&animation=twinkling)
 
-## 서비스 기획자 및 주니어 백엔드 개발자, oosedus, 오세연의 GitHub 입니다🙋‍♀️
+## 백엔드 개발자, oosedus, 오세연의 GitHub 입니다🙋‍♀️
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/oosedus"/>
@@ -42,13 +42,14 @@
 
 | 기간 | 내용 |
 |:--:|:--:|
-| 2025.02 ~ | 🔍 AI가 출제하는 퀴즈와 요약으로 뉴스를 더 쉽게 보자, NEWQUIZ 백엔드 개발자 🔍 |
+| 2025.03 ~ | 👄 구음장애 맞춤형 화상회의 서비스, GOOM 풀스택 개발자 👄 |
 | 2024.10 ~ | 📝 AI 경험 기록부터 역량 분석까지, MOAMOA 백엔드 개발자 📝 |
 
 <h2>🙌 I did...</h2>
 
 | 기간 | 내용 |
 |:--:|:--:|
+| 2025.02 ~ 2025.03 | 🔍 AI가 출제하는 퀴즈와 요약으로 뉴스를 더 쉽게 보자, NEWQUIZ 백엔드 개발자 🔍 |
 | 2024.03 ~ 2024.12| 🦁 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드파트 개발자 🦁 |
 | 2024.08 ~ 2024.12 | 💙 한국대학생IT경영학회 큐시즘, 백엔드파트 💙 |
 | 2024.06 ~ 2024.11 | 🦋 벌레를 잡아줘, 잡버그 기획자 & 백엔드 개발자 🦋 |
@@ -62,6 +63,8 @@
 | 2021.03 ~ 2021.12 | 🎁 서울과학기술대학교 ITM전공 제10대 프레젠트 학생회 사무부원 🎁 |
 
 <h2>🖥️ I developed...</h2>
+
+- AI가 출제하는 퀴즈와 요약으로 문해력 및 독해력을 상승시켜주는 웹, [뉴퀴즈](https://github.com/POTENDAY-NEWQUIZ/NEWQUIZ-BE)
 
 - AI와 대화만으로 경험을 구체적으로 기록하고 핵심 역량까지 뽑아주는 웹, [모아모아](https://github.com/KUSITMS-MOAMOA/MOAMOA_BE_V2)
 
@@ -86,6 +89,9 @@
 - 배달용기 세척 및 분리 수거 장려 배달의 민족 내 서비스, [에코클럽](https://puzzling-guan-60d.notion.site/1328b05fa9198028bd2ed457e2bf83c5)
 
 <h2>🏆 Awards</h2>
+- 2025 네이버클라우드X비사이드 포텐데이 해커톤 고도화 트랙 - 뉴퀴즈, 최우수상
+
+- 2024 큐시즘(한국대학생IT경영학회) 밋업데이 - 모아모아, 우수상
 
 - 2024 한국IT서비스학회 추계학술대회 - 잡버그, 논문
 
@@ -104,6 +110,7 @@
 <h2>🪪 Certificate</h2>
 
 ```
+2025.05 OPIC IH
 2024.06 SQLD 자격증
 2024.09 정보처리기사
 ```
@@ -112,7 +119,6 @@
 
 ```
 E-mail : seayeon0729@naver.com
-Instagram : @oose_dus
 ```
 
 <!--![](./profile-3d-contrib/profile-gitblock.svg)-->
