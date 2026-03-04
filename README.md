@@ -9,7 +9,9 @@
 
 <div align=left><h2>🛠️TECH STACKS🛠️</h2></div>
 <div align=left> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -20,29 +22,23 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
-<br>
-<div align=left><h2>✏️Currently Studying & Interested In✏️</h2></div>
-<div align=left>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
-  <br>
-  <h2>📊 OOSEDUS's Stats 📊</h2>
-</div>
 
-![Oosedus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oosedus&show_icons=true&theme=transparent) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seayeon0729)](https://solved.ac/seayeon0729/)
+  <br>
+</div>
 
 <h2>🧰 I'm working on...</h2>
 
 | 기간 | 내용 |
 |:--:|:--:|
-| 2025.03 ~ | 👄 구음장애 맞춤형 화상회의 서비스, GOOM 풀스택 개발자 👄 |
-| 2024.10 ~ | 📝 AI 경험 기록부터 역량 분석까지, MOAMOA 백엔드 개발자 📝 |
+| 2026.01 ~ | 💌 당신의 목소리에 맞는 폰트와 목소리를 함께 전달하는 보이스레터링 서비스, 올림 팀장 & 백엔드 개발자 💌 |
 
 <h2>🙌 I did...</h2>
 
 | 기간 | 내용 |
 |:--:|:--:|
+| 2026.01 ~ 2026.02| 🐳 신한 스퀘어브릿지 청년 해커톤 2기, 백엔드파트 🐳 |
+| 2024.10 ~ 2025.12| 📝 AI 경험 기록부터 역량 분석까지, MOAMOA 백엔드 개발자 📝 |
+| 2025.03 ~ 2025.11 | 👄 구음장애 맞춤형 화상회의 서비스, GOOM 풀스택 개발자 👄 |
 | 2025.02 ~ 2025.03 | 🔍 AI가 출제하는 퀴즈와 요약으로 뉴스를 더 쉽게 보자, NEWQUIZ 백엔드 개발자 🔍 |
 | 2024.03 ~ 2024.12| 🦁 멋쟁이사자처럼 12기 백엔드파트 개발자 🦁 |
 | 2024.08 ~ 2024.12 | 💙 한국대학생IT경영학회 큐시즘, 백엔드파트 💙 |
@@ -54,9 +50,13 @@
 | 2023.04 ~ 2023.12 | 👩 WISET 연구 심화 과정 연구원 🎓 |
 | 2022.01 ~ 2022.12 | 🌱 학과 제11대 리프레쉬 학생회 부학생회장 🌱 |
 | 2021.03 ~ 2022.12 | 🐨 학과 동아리 코딩을 알려 달라, 코알라 부원 & 운영진 🐨 |
-| 2021.03 ~ 2021.12 | 🎁 학과 제10대 프레젠트 학생회 사무부원 🎁 |
+| 2021.03 ~ 2021.12 | 🎁 학과 제10대 프레젠트 학생회 사무부원 🎁 | 
 
 <h2>🖥️ I developed...</h2>
+
+- 당신의 목소리에 맞는 폰트와 목소리를 함께 전달하는 보이스레터링 웹 서비스, [올림](https://github.com/haennihaesseo/OLLLIM_BE)
+
+- 구음장애 맞춤형 화상회의 웹서비스, [구음(GOOM)](https://github.com/orgs/GOOM-PROJECT/repositories)
 
 - AI가 출제하는 퀴즈와 요약으로 문해력 및 독해력을 상승시켜주는 웹, [뉴퀴즈](https://github.com/POTENDAY-NEWQUIZ/NEWQUIZ-BE)
 
@@ -83,6 +83,11 @@
 - 배달용기 세척 및 분리 수거 장려 배달의 민족 내 서비스, [에코클럽](https://puzzling-guan-60d.notion.site/1328b05fa9198028bd2ed457e2bf83c5)
 
 <h2>🏆 Awards</h2>
+
+- 2026 신한 스퀘어브릿지 청년 해커톤 2기 - 올림, 혁신상
+
+- 2025 ITM전공 캡스톤 디자인 공모전 - 구음, 금상
+
 - 2025 네이버클라우드X비사이드 포텐데이 해커톤 고도화 트랙 - 뉴퀴즈, 최우수상
 
 - 2024 큐시즘(한국대학생IT경영학회) 밋업데이 - 모아모아, 우수상
